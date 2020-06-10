@@ -1,0 +1,17 @@
+.dice{
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-70%);
+}
+
+.diceimg{
+    height: 100px;
+    margin: 20px;
+}
+
+.myContainer{
+       position: relative;
+       display: inline;
+}
